@@ -1,0 +1,4 @@
+﻿  源.cpp
+TestSTACK.lib(pch.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestSTACK.lib(pch.obj)”或在“C:\Users\86153\Desktop\C++实验\CS1904_U201915050_高博文\实验三\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TestSTACK.lib(TEST.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestSTACK.lib(TEST.obj)”或在“C:\Users\86153\Desktop\C++实验\CS1904_U201915050_高博文\实验三\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  实验三.vcxproj -> C:\Users\86153\Desktop\C++实验\CS1904_U201915050_高博文\实验三\Debug\实验三.exe
