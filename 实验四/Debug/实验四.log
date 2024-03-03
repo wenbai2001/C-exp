@@ -1,0 +1,41 @@
+﻿  源.cpp
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(229,29): warning C4477: “sprintf”: 格式字符串“%6ld”需要类型“long”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(229,29): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(229,29): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(222): message : 在编译 类 模板 成员函数“char *MAT<__int64>::print(char *) noexcept const”时
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(260): message : 查看对正在编译的 类 模板 实例化“MAT<__int64>”的引用
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(232,29): warning C4477: “sprintf”: 格式字符串“%8f”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(235,29): warning C4477: “sprintf”: 格式字符串“%8lf”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=__int64
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(232,29): warning C4477: “sprintf”: 格式字符串“%8f”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(222): message : 在编译 类 模板 成员函数“char *MAT<int>::print(char *) noexcept const”时
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(261): message : 查看对正在编译的 类 模板 实例化“MAT<int>”的引用
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(235,29): warning C4477: “sprintf”: 格式字符串“%8lf”需要类型“double”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(240,29): warning C4477: “sprintf”: 格式字符串“%6lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“T”
+          with
+          [
+              T=int
+          ]
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(240,29): message : 请考虑在格式字符串中使用“%d”
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(240,29): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\86153\Desktop\C++实验\实验四\源.cpp(240,29): message : 请考虑在格式字符串中使用“%I32d”
+  实验四.vcxproj -> C:\Users\86153\Desktop\C++实验\实验四\Debug\实验四.exe
